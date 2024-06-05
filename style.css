@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 20px;
+    text-align: center;
+    background-image: url(971.jpg);
+}
+
+h1 {
+    color: rgb(248, 8, 8);
+}
+
+label {color: #f0f0f0;}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ff00ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+button:hover {
+    background-color: #4e00b3;
+}
+
+#adicionarLink {padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #00ff40;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#adicionarLink:hover {background-color: #ff00ff;}
+
+#mensagem {
+    color: #007BFF;
+    font-weight: bold;
+}
+
+#textoAlterado {
+    color: rgb(248, 247, 247);
+    font-style: italic;
+}
+
+#Cliquenestelink {color: antiquewhite;}
+
+a {
+    color: #00ff6a;
+    text-decoration: none;
+}
+
+p {color: antiquewhite;}
+
+a:hover {
+    text-decoration: underline;
+}
